@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author" : "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/RefocusWalls/master/01-08-14%20-%206.jpg",
+			"name": "Roadway"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/RefocusWalls/master/14%20-%203.jpg",
+			"name": "Peak"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/RefocusWalls/master/15.05.2014%20-%209.jpg",
+			"name" : "Pollen"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/RefocusWalls/master/2uu650%201600.jpg",
+			"name": "Mountains"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/RefocusWalls/master/wallpaper_06.png",
+			"name": "Facet"
+		}
+	]
+}
